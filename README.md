@@ -173,4 +173,36 @@ streamlit run streamlit_app.py
 
 ## License
 
-MIT License 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### License Summary
+
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology. It is a simple, permissive license that allows users to:
+
+- Use the software commercially
+- Modify the software
+- Distribute the software
+- Sublicense the software
+- Use the software privately
+
+The only requirement is that the original copyright and license notice be included in any substantial portions of the software.
+
+### Third-Party Licenses
+
+This project uses several third-party libraries and services:
+
+1. **LangChain**: MIT License
+2. **Neo4j**: GNU General Public License v3.0
+3. **OpenSearch**: Apache License 2.0
+4. **AWS Bedrock**: AWS Service Terms
+5. **Streamlit**: Apache License 2.0
+
+Please refer to the respective documentation of these services for their specific license terms and conditions.
+
+### Contributing
+
+By contributing to this project, you agree that your contributions will be licensed under the MIT License. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+### Disclaimer
+
+This software is provided "as is" without warranty of any kind, express or implied. The authors and copyright holders shall not be liable for any claims, damages, or other liabilities arising from the use of this software. 
